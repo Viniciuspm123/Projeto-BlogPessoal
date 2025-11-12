@@ -1,4 +1,4 @@
-Projeto 09 (Trilha Simplificada) - Página Pessoal Simples
+Projeto - Página Pessoal Simples
 Este projeto demonstra a criação de uma página pessoal/blog simples, focada na apresentação do autor e em um design limpo e centralizado.
 
 🚀 Sobre o Projeto
